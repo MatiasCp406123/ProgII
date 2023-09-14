@@ -1,0 +1,13 @@
+C:\Users\marti\source\repos\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\marti\source\repos\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\marti\source\repos\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\marti\source\repos\Banco\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\Banco\Banco\obj\Debug\Banco.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\source\repos\Banco\Banco\obj\Debug\Banco.Presentacion.FrmCuenta.resources
+C:\Users\marti\source\repos\Banco\Banco\obj\Debug\Banco.FrmBanco.resources
+C:\Users\marti\source\repos\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\marti\source\repos\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\marti\source\repos\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\marti\source\repos\Banco\Banco\obj\Debug\Banco.Presentacion.Consultar_Cliente.resources
